@@ -1,5 +1,5 @@
 # **slozhno-sosredotochitsya-fd**
-## [Ссылка на страницу](https://github.com/AlekseiKadochnikov/slozhno-sosredotochitsya-fd)
+## [Ссылка на страницу](https://github.com/AlekseiKadochnikov/slozhno-sosredotochitsya-fd.git)
 
   В проекте отрабатывались навыки расположения элементов по *Grid*-сетке,
 Учились применять псевдоклассы, работать с переменными, делать медиа запросы для различных размеров экрана, старались сделать разметку резиновой. 
