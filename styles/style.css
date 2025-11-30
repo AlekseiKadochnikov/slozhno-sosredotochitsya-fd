@@ -8,8 +8,19 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  max-height: 768px;
-  max-width: 1229px;
+}
+
+.header {
+  position: relative;
+  height: 100vh;
+  min-block-size: 668px;
+  width: 100%;
+  display: grid;
+  justify-self: center;
+  align-self: center;
+  grid-template-columns: 1fr;
+  padding: 10px 10px 66px;
+  margin-block-end: 40px;
 }
 
 .title {
@@ -19,19 +30,7 @@
   line-height: 83%;
   color: var(--title-color);
   letter-spacing: 0;
-}
-
-.header {
-  position: relative;
-  height: 100vh;
-  min-height: 668px;
-  width: 100%;
-  display: grid;
-  justify-self: center;
-  align-self: center;
-  grid-template-columns: 1fr;
-  padding: 10px 10px 66px;
-  margin-block-end: 40px;
+  max-height: 192px;
 }
 
 .header::before {
@@ -83,9 +82,9 @@
 }
 
 .header__theme-menu {
-  height: 26px;
+  height: 98px;
   margin-block-start: 65px;
-  margin-block-end: 70px;
+  margin-block-end: 65px;
 }
 
 .header__theme-menu-list {
@@ -213,7 +212,6 @@
 .section__what {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 20px;
 }
 
 .section__how {
@@ -293,7 +291,7 @@
   }
 
   .header__theme-menu {
-    margin-block: 172px 180px;
+    margin-block: 172px 173px;
   }
 
   .header__title {
@@ -336,6 +334,10 @@
 
   .section__why {
     grid-template-columns: 1fr 2fr;
+    gap: 20px;
+  }
+
+  .section__what {
     gap: 20px;
   }
 
