@@ -23,7 +23,7 @@
 }
 
 @media (prefers-color-scheme: light) {
-
+  
   :root {
     /* Дублируем только те же переменные, что и выше */
     --background-image: url(../images/cover-image-light.png);
