@@ -1,4 +1,4 @@
-# **slozhno-sosredotochitsya**
+# **slozhno-sosredotochitsya-fd**
 ## [Ссылка на страницу](https://github.com/AlekseiKadochnikov/slozhno-sosredotochitsya-fd)
 
   В проекте отрабатывались навыки расположения элементов по *Grid*-сетке,
