@@ -37,6 +37,8 @@
     --text-shadow-color: #ff8dcb;
     --display: none;
     --button-border-bottom: rgb(53 52 48 / 0.4);
+    --link-border-bottom: #353430;
+    --link-decor-color: #353430;
   }
 
   /* Остальные стили, только при необходимости */
