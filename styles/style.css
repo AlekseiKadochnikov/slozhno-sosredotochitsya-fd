@@ -279,6 +279,7 @@
 
   .header__description {
     display: flex;
+    align-items: start;
     justify-content: end;
   }
 
@@ -407,7 +408,6 @@
 
   .header__description_text {
     max-width: 491px;
-    max-height: 71px;
   }
 
   .section__why {
