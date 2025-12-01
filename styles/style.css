@@ -326,7 +326,7 @@
     width: 236px;
   }
 
-  .section__how .section__title {
+  .section__how {
     grid-template-columns: 1fr 2fr;
     gap: 20px;
   }
