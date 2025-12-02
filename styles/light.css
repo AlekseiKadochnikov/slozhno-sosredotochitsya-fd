@@ -20,6 +20,8 @@
   --text-shadow-color: #ff8dcb;
   --display: none;
   --button-border-bottom: rgb(53 52 48 / 0.4);
+  --link-border-bottom: currentColor;
+    --link-decor-color: currentColor;
 }
 
 @media (prefers-color-scheme: light) {
